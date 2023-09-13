@@ -25,7 +25,6 @@ This section is dedicated to providing you with a curated list of external resou
 - [InterviewBit](https://www.interviewbit.com/)
 - [Pramp](https://www.pramp.com/)
 - [Exponent](https://www.tryexponent.com/practice)
-- 
 
 ## Algorithms and Data Structures
 
