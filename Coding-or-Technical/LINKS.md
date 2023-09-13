@@ -13,7 +13,7 @@ This section is dedicated to providing you with a curated list of external resou
 - [Interview Preparation Platforms](#interview-preparation-platforms)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
 - [Coding Practice](#coding-practice)
-- [Tech Interview Articles](#tech-interview-articles)
+- [Tech Interview Articles and Books](#tech-interview-articles-and-books)
 - [Community and Insights](#community-and-insights)
 
 ## Interview Preparation Platforms
@@ -47,13 +47,15 @@ This section is dedicated to providing you with a curated list of external resou
 - [FreeCodeCamp.org - Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/)
 - [TCS NQT Coding Sheet - Striver](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions/) - only recommended for companies like TCS, Wipro, Cognizant, etc and only for new grads/postgrads looking for roles in India.
 
-## Tech Interview Articles
+## Tech Interview Articles and Books
 
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
 - [Interviewing.io Blog](https://interviewing.io/blog/)
 - [Getting Hired - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)
 - [TopCoder Algorithm Tutorials](https://www.topcoder.com/thrive/articles/Competitive%20Programming)
 - [InterviewGuide.dev](https://interviewguide.dev/)
+- [freeCodeCamp Press Books - Handbooks](https://www.freecodecamp.org/news/freecodecamp-press-books-handbooks/)
+- [How to Learn to Code & Get a Developer Job - Quincy Larson](https://www.freecodecamp.org/news/learn-to-code-book/)
 
 ## Community and Insights
 
