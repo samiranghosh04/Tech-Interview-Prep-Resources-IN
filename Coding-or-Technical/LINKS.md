@@ -1,12 +1,7 @@
 # LINKS
 
-Welcome to the Links section of the repo for Coding/Techincal! This section is dedicated to providing you with a curated list of external resources, articles, tutorials, and websites that can further enhance your performance in the Coding/Technical rounds of tech interviews.
+Welcome to the Links section of the repo for Coding/Techincal! This section is dedicated to providing you with a curated list of external resources, articles, tutorials, and websites that can further enhance your performance in the Coding/Technical rounds of tech interview.
 
-Welcome to the Links section of the repo for Coding/Technical Rounds.
-
-Welcome to the **Links** section of **IN-Tech-Interviews**!
-
-This section is dedicated to providing you with a curated list of external resources, articles, tutorials, and websites that can further enhance your tech interview preparation. Whether you're looking for additional practice problems, in-depth explanations, or insights from the tech community, you'll find valuable links here.
 
 ## Categories
 
@@ -46,7 +41,7 @@ This section is dedicated to providing you with a curated list of external resou
 - [Interactive Coding Challenges by Donne Martin](https://github.com/donnemartin/interactive-coding-challenges)
 - [FreeCodeCamp.org - Coding Interview Prep](https://www.freecodecamp.org/learn/coding-interview-prep/)
 - [TCS NQT Coding Sheet - Striver](https://takeuforward.org/interviews/tcs-nqt-coding-sheet-tcs-coding-questions/) - only recommended for companies like TCS, Wipro, Cognizant, etc and only for new grads/postgrads looking for roles in India.
-
+- - [OA and Interviews](https://github.com/Leader-board/OA-and-Interviews/blob/main/Online%20Assessments.md)
 ## Tech Interview Articles and Books
 
 - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
